@@ -30000,6 +30000,7 @@ img.absolute_image {
 	transition: all 0.6s ease;
 	width: 210px;
 	z-index: 1001;
+	display: none;
 }
 
 #switcher.active {
